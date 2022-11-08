@@ -3,10 +3,6 @@
 *~
 __pycache__
 
-# Env
-.env
-djangoenv/
-
 # Database
 db.sqlite3
 

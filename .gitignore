@@ -6,7 +6,6 @@ __pycache__
 # Env
 .env
 djangoenv/
-venv/
 
 # Database
 db.sqlite3
